@@ -6,8 +6,8 @@ Wykorzystana baza danych to PostgreSQL, w aplikacji przygotowane są migracje or
 
 Na stronie głównej wyświetla się całe drzewo, z tego miejsca możemy:
 - wejść w poszczególne węzły po kliknięciu na ich nazwę
-! - po najechaniu na nazwę węzłą wyświetli nam się przycisk "Folds", po którego kliknięciu zwijamy lub rozwijamy dany węzeł !
-! - po najechaniu na nazwę węzłą wyświetli nam się przycisk "Sort", po którego kliknięciu sortujemy wybrany posiom drzewa rosnąco lub malejąco !
+- !! po najechaniu na nazwę węzłą wyświetli nam się przycisk "Folds", po którego kliknięciu zwijamy lub rozwijamy dany węzeł !!
+- !! po najechaniu na nazwę węzłą wyświetli nam się przycisk "Sort", po którego kliknięciu sortujemy wybrany posiom drzewa rosnąco lub malejąco !!
 - po najechaniu na nazwę węzłą wyświetli nam się przycisk "Options", po którego kliknięciu uzyskamy dostęp do opcji
 - po wpisaniu nazwy w pole "Rename" i kliknięciu "Update" nastąpi zmiana nazwy (zaimplementowana jest walidacja, która nie przepuszcza żadnych znaków specjalnych)
 - po wybraniu opcji z pola "Change parent" i kliknięciu "Update" nastąpi zmiana rodzica (przeniesienie).
